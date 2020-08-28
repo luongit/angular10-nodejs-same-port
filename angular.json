@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "nodeAngular"
+    }
+  },
+  "defaultProject": "nodeAngular",
+  "cli": {
+    "analytics": false
+  }
 }
